@@ -4,5 +4,6 @@ function addDays(days) {
   return date;
 }
 
-module.exports = addDays;
+console.log(addDays(15));
 
+module.exports = addDays;
